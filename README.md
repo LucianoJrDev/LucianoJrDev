@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luciano Júnior
 
-🚀 **Junior Front End  | JavaScript & React & Next.js Specialist**  
+🚀 **Junior Full-Stack  | JavaScript & React & Next.js Specialist**  
 🇧🇷 Brazil
 
 🖥️ Graduated from **the Systems Analysis and Development** course. 
