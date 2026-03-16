@@ -1,58 +1,122 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a4a7a,100:2d7cc4&height=120&section=header"/>
+
+<br/>
+
+# Luciano Junior
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=87CEFA&color=2D7CC4&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+%40+LucianoJrDev;+%7C+Tech+Enthusiast;Building+elegant+Solutions+From+Brazil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-júnior)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/LucianoJunior_XO)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luciano+Junior+;I+have+a+degree+in+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucianoJrDev&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=87CEFA&text_color=87CEFA&bg_color=0d1117" alt="LucianoJrDev github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoJrDev&layout=compact&hide_border=true&title_color=4682B4&text_color=87CEFA&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucianoJrDev&bg_color=87CEEB&color=000000&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucianoJrDev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## &nbsp;About
 
-<div align="center">  
-<a href="https://www.instagram.com/LucianoJunior_XO/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+```javascript
+const harlley = {
+    role: "Software Engineer  @ Luciano Junior",
+    sideHustle: "My social networks",
+    location: "Brazil 🇧🇷",
+    languages: ["Portuguese", "English"],
+    stack: ["React", "TypeScript", "Node.Js on MySQL", "Docker"],
+    passion: "A programming language doesn't make your code good; good programmers make your code good."
+};
+```
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div> -->
+<br/>
+
+## &nbsp;My Motto
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║     "Genius is 1% inspiration and 99% perspiration."                         ║
+║                                                                              ║
+║                                                         — Thomas Edson       ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+## &nbsp;Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-0a1628?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-0a1628?style=flat-square&logo=flutter&logoColor=02569B)
+![Next.js](https://img.shields.io/badge/Next.js-0a1628?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a1628?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
+![Docker](https://img.shields.io/badge/Docker-0a1628?style=flat-square&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Git](https://img.shields.io/badge/Git-0a1628?style=flat-square&logo=git&logoColor=F05032)
+
+</div>
+
+<br/>
+
+## &nbsp;GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=LucianoJrDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2d7cc4&icon_color=2d7cc4&text_color=c9d1d9&count_private=true" />
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucianoJrDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2d7cc4&icon_color=2d7cc4&text_color=c9d1d9&count_private=true"/>
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=LucianoJrDev&hide_border=true&background=0D1117&stroke=1a4a7a&ring=2d7cc4&fire=2d7cc4&currStreakLabel=2d7cc4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+    <img height="160em" src="https://github-readme-streak-stats-eight.vercel.app/?user=LucianoJrDev&hide_border=true&background=0D1117&stroke=1a4a7a&ring=2d7cc4&fire=2d7cc4&currStreakLabel=2d7cc4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681"/>
+  </picture>
+</div>
+
+<br/>
+
+## &nbsp;Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harlleybastos/harlleybastos/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harlleybastos/harlleybastos/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/harlleybastos/harlleybastos/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🤝&nbsp;&nbsp;Let's Connect & Build Something Amazing Together!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-júnior)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/LucianoJunior_XO)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<br/>
 
+**💼&nbsp;&nbsp;Software Engineer  @ Luciano Junior | My social networks**
+
+**Open for exciting  and opportunities! :)**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a4a7a,100:2d7cc4&height=100&section=footer"/>
+
+</div>
