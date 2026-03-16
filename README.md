@@ -21,7 +21,7 @@
 ## &nbsp;About
 
 ```javascript
-const harlley = {
+const Luciano = {
     role: "Software Engineer  @ Luciano Junior",
     sideHustle: "My social networks",
     location: "Brazil 🇧🇷",
